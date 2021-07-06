@@ -1,0 +1,82 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+}
+h1{
+    font-size:50px ;
+}
+h2{
+    font-size:40px ;
+}
+.five{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+}
+.six{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+}
+.nine{
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.one{
+   
+    display: flex;
+    padding-bottom: 150px;
+}
+.two{
+    width: 50%;
+    padding-left: 2%;
+
+}
+.two img{
+    width: 50%;
+    padding: 3% 10%;
+}
+.three{
+    color:rgb(185, 6, 6);
+}
+.four{
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(red, black);
+    padding: 10px 40px;
+}
+.seven{
+    text-align: center;
+    color: rgb(185, 6, 6);
+}
+.eight{
+    text-align: center;
+}
+.agla{
+    width: 50%;
+  margin: 5%;
+  padding left:20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px grey;
+}
+#a{
+    border: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(0, 0, 17), blue);
+    border-image-slice: 1;
+}
+#b{
+    border: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(0, 0, 17), blue);
+    border-image-slice: 1;
+}
+#c{
+    border: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(0, 0, 17), blue);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center ;
+}
